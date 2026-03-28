@@ -58,7 +58,7 @@
 <h2></h2>
 
 ### 💬 Discord Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/702754898348867647?idleMessage=Coding...&theme=dark)](https://discord.com/users/702754898348867647)
+[![Discord Presence](https://lanyard.cnrad.dev/api/702754898348867647?idleMessage=Yakup&theme=dark)](https://discord.com/users/702754898348867647)
 
 <h2></h2>
 
