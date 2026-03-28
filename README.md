@@ -12,7 +12,7 @@
 <a href="https://instagram.com/yakup.sw" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="40px">
 </a>
-<a href="https://discord.gg/702754898348867647" target="_blank">
+<a href="https://discord.com/users/702754898348867647" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
 </a>
 <a href="mailto:mertturkyakup08@gmail.com" target="_blank">
@@ -21,17 +21,20 @@
 
 <h2></h2>
 
-### 💻 Tech Stack & Tools
+### 💻 Tech Stack
 <div>
     <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css" /><br/>
-    <img src="https://skillicons.dev/icons?i=kotlin,zig,webpack,githubactions,github" /><br/>
-    <img src="https://skillicons.dev/icons?i=gcp,cloudflare,arduino,raspberrypi" /><br/>
-    <img src="https://skillicons.dev/icons?i=godot,unity,unreal" />
+    <img src="https://skillicons.dev/icons?i=kotlin,zig,webpack,githubactions,github" />
 </div>
 
-<br/>
+<h2></h2>
 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) 
+### 🛠️ Development Tools
+<div>
+    <img src="https://skillicons.dev/icons?i=gcp,cloudflare,arduino,raspberrypi,godot,unity,unreal" /><br/>
+    <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+</div>
 
 <h2></h2>
 
@@ -39,25 +42,15 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-sable-five-74.vercel.app/api/top-langs/?username=yakup081&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-sable-five-74.vercel.app/api?username=yakup081&show_icons=true&count_private=true&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yakup081&theme=tokyonight" alt="GitHub Streak" />
-    </td>
+    <img src="https://github-readme-stats-sable-five-74.vercel.app/api/top-langs/?username=yakup081&layout=compact&theme=tokyonight" alt="Top Languages" />
   </tr>
 </table>
 
+<img src="https://github-readme-stats-sable-five-74.vercel.app/api?username=yakup081&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+
 <h2></h2>
 
-### 💬 Discord Status
+### 🎮 Discord Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/702754898348867647?idleMessage=Yakup&theme=dark)](https://discord.com/users/702754898348867647)
 
 <h2></h2>
