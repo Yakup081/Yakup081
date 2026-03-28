@@ -54,8 +54,8 @@
 
 <h2></h2>
 
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+### 💬 Discord Status
+[![Discord Presence](https://lanyard.cnrad.dev/api/702754898348867647?idleMessage=Coding...&theme=dark)](https://discord.com/users/702754898348867647)
 
 <h2></h2>
 
