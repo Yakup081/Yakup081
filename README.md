@@ -18,13 +18,6 @@
   <a href="mailto:mertturkyakup08@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40" align="center"/></a>
 </p>
 
-<div align="center">
-  <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yakup081&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-
 <br/>
 
 <h3 align="center">🛠️ Teknolojiler ve Araçlar</h3>
